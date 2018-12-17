@@ -1,4 +1,4 @@
 # Hello-World
-GitHub begining guide thing
+GitHub begining project.
 
 Hello, im new to coding and following the guide to this website as i make my first project
